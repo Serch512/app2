@@ -1,0 +1,918 @@
+t<pre>--ERROR NOTICE --
+FECHA: 14-10-20 15:51:45
+ARCHIVO: C:\xampp\htdocs\app\class\errores.php
+LINEA: 68
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined variable: x
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-22 20:51:32
+ARCHIVO: C:\xampp\htdocs\app\class\errores.php
+LINEA: 97
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined variable: x
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:10:51
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:23:57
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:23:57
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\delete.php
+LINEA: 3
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: user
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:24:00
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:24:08
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:24:08
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\delete.php
+LINEA: 3
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: user
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:24:11
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:24:16
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:24:16
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\delete.php
+LINEA: 3
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: user
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:24:19
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:30:23
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:30:23
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\add.php
+LINEA: 10
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: groups
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-23 19:30:23
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\add.php
+LINEA: 10
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Invalid argument supplied for foreach()
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:30:32
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:30:32
+ARCHIVO: C:\xampp\htdocs\app2\class\validacion.php
+LINEA: 46
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Use of undefined constant FILTER_VALDATE_INT - assumed 'FILTER_VALDATE_INT'
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-23 19:30:32
+ARCHIVO: C:\xampp\htdocs\app2\class\validacion.php
+LINEA: 46
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: filter_var() expects parameter 2 to be long, string given
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:30:32
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\add.php
+LINEA: 10
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: groups
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-23 19:30:32
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\add.php
+LINEA: 10
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Invalid argument supplied for foreach()
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:30:53
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:30:53
+ARCHIVO: C:\xampp\htdocs\app2\class\validacion.php
+LINEA: 46
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Use of undefined constant FILTER_VALDATE_INT - assumed 'FILTER_VALDATE_INT'
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-23 19:30:53
+ARCHIVO: C:\xampp\htdocs\app2\class\validacion.php
+LINEA: 46
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: filter_var() expects parameter 2 to be long, string given
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-23 19:30:53
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\add.php
+LINEA: 10
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: groups
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-23 19:30:53
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\add.php
+LINEA: 10
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Invalid argument supplied for foreach()
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-24 15:53:45
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-24 19:25:51
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 14:33:59
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 14:33:59
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 14:37:35
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 14:37:36
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\add.php
+LINEA: 10
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: groups
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-27 14:37:36
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\add.php
+LINEA: 10
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Invalid argument supplied for foreach()
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 14:37:44
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:27:22
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:27:55
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:53
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:54
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:55
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:55
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:55
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:55
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:56
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:56
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:28:56
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:29:20
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:32:30
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:34:03
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:34:05
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:35:00
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:35:07
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:35:07
+ARCHIVO: C:\xampp\htdocs\app2\Controllers\usersController.php
+LINEA: 98
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: _post
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-27 15:35:07
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\login.php
+LINEA: 2
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-27 15:35:07
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\login.php
+LINEA: 2
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:35:07
+ARCHIVO: C:\xampp\htdocs\app2\Views\Users\login.php
+LINEA: 4
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: _post
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 15:36:38
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-27 17:16:15
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-28 16:05:57
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-28 16:13:20
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-28 16:13:20
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/AppController.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-28 16:13:20
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/AppController.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-28 16:13:29
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-28 16:13:29
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/AppController.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-28 16:13:29
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/AppController.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-28 16:13:56
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-28 16:13:56
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/AppController.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-28 16:13:56
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/AppController.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:12:26
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:12:27
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:12:27
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:14:11
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:14:11
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:14:11
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:15:41
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:15:41
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:15:41
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:15:45
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:15:45
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:15:45
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:15:49
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:15:49
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:15:49
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:15:58
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:15:58
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:15:58
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:16:29
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:16:29
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:16:29
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:23:12
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:23:12
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:23:12
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:23:15
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:23:15
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/ClassPDO.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:23:15
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/ClassPDO.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:23:49
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:23:49
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/AppController.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:23:49
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/AppController.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:27:39
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:27:39
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/AppController.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:27:39
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/AppController.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR NOTICE --
+FECHA: 14-10-30 03:27:45
+ARCHIVO: C:\xampp\htdocs\app2\class\errores.php
+LINEA: 96
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: Undefined variable: xx
+--ERROR: NOTICE --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:27:45
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(class/AppController.php): failed to open stream: No such file or directory
+--ERROR: WARNING --
+</pre>
+<pre>--ERROR WARNING --
+FECHA: 14-10-30 03:27:45
+ARCHIVO: C:\xampp\htdocs\app2\index.php
+LINEA: 31
+IP SERVIDOR: 127.0.0.1
+IP USUARIO: 127.0.0.1
+MENSAJE: include_once(): Failed opening 'class/AppController.php' for inclusion (include_path='.;C:\xampp\php\PEAR')
+--ERROR: WARNING --
+</pre>
